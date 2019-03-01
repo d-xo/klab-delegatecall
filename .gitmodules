@@ -1,3 +1,3 @@
 [submodule "klab-delegatecall-dapp"]
-	path = klab-delegatecall-dapp
+	path = dapp
 	url = git@github.com:xwvvvvwx/klab-delegatecall-dapp.git
